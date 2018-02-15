@@ -1,0 +1,29 @@
+{
+	"spots":
+		{
+			"spot":
+				[
+					{
+						"name": "Noble - Cabin Trails Collection",
+						"id": 101,
+						"spotURL": "https://spts.us/bhf/-/noble-cabin-trails-collection",
+						"coverImageURL": "https://spts.us/attachments/bd635b32c0ff4857e99d0a4a7492a9a7064f9c4b/store/b2e5370539fc8845bdc8a659f899ce3146af2e92b8aa25d018897d5a6592/noble-cabin-trails-collection.png",
+						"qrURL": "https://spts.us/attachments/e35940a23ed0db830b23511424533071b6926de2/store/2ca9947424ed18c3d39a2c2031a8121352dd6dd9d9d599394f380cc6fe77/qrcode20170114-6-14ynw4r.png"
+					},
+					{
+						"name": "Westney Sofa - Cabin Trails Collection",
+						"id": 102,
+						"spotURL": "https://spts.us/bhf/-/westney-sofa-cabin-trails-collection",
+						"coverImageURL": "https://spts.us/attachments/e5fb9c99f23f72d10ece05a7bf40e9134ef63be7/store/4d8b1979458d6710110500cf588e76c33405e49fbf97eeb1059950d248f0/westney-sofa-cabin-trails-collection.png",
+						"qrURL": "https://spts.us/attachments/c022a1515f8c002769d6373285ede8043e551443/store/c8b2e71cdb118b6caafbc1bdb4c89b067d15983fe7fa36ba1dbb68364a75/qrcode20170114-8-a4rt3c.png"
+					},
+					{
+						"name": "Patrick - Cabin Trails Collection",
+						"id": 103,
+						"spotURL": "https://spts.us/bhf/-/patrick-cabin-trails-collection",
+						"coverImageURL": "https://spts.us/attachments/59b4274bb9776d8264b52a48f134fd7e97603138/store/2a5e58a64e945051d2b3c1c4c76275a046b0ab5cad29d20a557f87c43fbd/patrick-cabin-trails-collection.png",
+						"qrURL": "https://spts.us/attachments/6509434b09c0928ac4fccf680efcabfaca6cadb1/store/2e24b57560c712a97b0652d15292573d1e3d178a349282e02202fd8f4ac1/qrcode20170114-8-44pzbb.png"
+					}
+				]			
+		}
+}
